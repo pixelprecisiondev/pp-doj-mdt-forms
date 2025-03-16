@@ -1,7 +1,7 @@
 ### **📄 DOJ MDT Example Forms**
 Example forms for use inside **PP-DOJ-MDT**! 🚔⚖️
 
-🔗 **Get PP-DOJ-MDT [here](https://pixelprecision.dev/store?category=SCRIPTS&subcategory=DOJ+MDT):**
+🔗 **Get PP-DOJ-MDT [here](https://pixelprecision.dev/store?category=SCRIPTS&subcategory=DOJ+MDT)**
 
 📌 **Original forms by:**
 [CoolBrad-Scripts](https://github.com/CoolBrad-Scripts/doj-forms)
